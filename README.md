@@ -34,6 +34,8 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
     Mira: baseada no cursor do mouse
 
+
+
 📸 Imagens do Jogo
     
 <img width="835" alt="Exemplo1JOGO" src="https://github.com/user-attachments/assets/e3208ea3-d346-4733-8100-cc67cb6e1671" />
@@ -42,7 +44,9 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
 <img width="878" alt="Exemplo3JOGO" src="https://github.com/user-attachments/assets/a1322a8e-21ac-43e4-b9ea-cbcd7b5c87d2" />
 
-Sprites
+
+
+🧙‍♂️ Sprites Utilizados
 
 ![png-transparent-hadouken-hadoken-pixel-art-ryu-others-blue-rectangle-symmetry-thumbnail-removebg-preview](https://github.com/user-attachments/assets/978066c7-1247-4291-b29e-dc92de790b4b)
 
@@ -58,7 +62,9 @@ Sprites
 
 ![spell](https://github.com/user-attachments/assets/97958a54-ab6e-440a-a3d1-e3b233911862)
 
-BANCO DE DADOS Aplicação/Layout/Folha de eventos e banco de dados
+
+
+🧾 Aplicação, Layout e Banco de Dados
 
 <img width="488" alt="PARTE2JOGO1" src="https://github.com/user-attachments/assets/78dc961e-01df-45f5-bf1d-1fa22e393ff5" />
 
@@ -67,6 +73,8 @@ BANCO DE DADOS Aplicação/Layout/Folha de eventos e banco de dados
 <img width="585" alt="PARTE2JOGO3" src="https://github.com/user-attachments/assets/21d762c3-64aa-4d31-9409-85194ae188ea" />
 
 <img width="957" alt="bancodedados" src="https://github.com/user-attachments/assets/93043593-e4b9-446a-9842-41c39f3a2d73" />
+
+
 
 🙏 Agradecimentos
 
