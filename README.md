@@ -70,6 +70,8 @@ Reiniciar o jogo: Barra de espaço
 
 <img width="957" alt="bancodedados" src="https://github.com/user-attachments/assets/93043593-e4b9-446a-9842-41c39f3a2d73" />
 
+Link: https://helioabrahaodepaula.itch.io/wizardwar
+
 🙏 Agradecimentos
 
 Gostaria de expressar minha gratidão a todos que contribuíram direta ou indiretamente para a realização deste projeto:
