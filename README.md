@@ -44,7 +44,7 @@ Reiniciar o jogo: Barra de espaço
 
 <img width="878" alt="Exemplo3JOGO" src="https://github.com/user-attachments/assets/a1322a8e-21ac-43e4-b9ea-cbcd7b5c87d2" />
 
-Sprites
+🧙‍♂️ Sprites Utilizados
 
 ![png-transparent-hadouken-hadoken-pixel-art-ryu-others-blue-rectangle-symmetry-thumbnail-removebg-preview](https://github.com/user-attachments/assets/978066c7-1247-4291-b29e-dc92de790b4b)
 
@@ -60,7 +60,7 @@ Sprites
 
 ![spell](https://github.com/user-attachments/assets/97958a54-ab6e-440a-a3d1-e3b233911862)
 
-BANCO DE DADOS Aplicação/Layout/Folha de eventos e banco de dados
+🧾 Aplicação, Layout, folha de eventos e Banco de Dados
 
 <img width="488" alt="PARTE2JOGO1" src="https://github.com/user-attachments/assets/78dc961e-01df-45f5-bf1d-1fa22e393ff5" />
 
