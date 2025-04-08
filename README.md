@@ -10,31 +10,31 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
 ✨ Mecânicas principais:
 
-    Luta contra goblins em tempo real
+Luta contra goblins em tempo real
 
-    Enfrentamento de um chefe gigante
+Enfrentamento de um chefe gigante
 
-    Uso de magias com diferentes efeitos
+Uso de magias com diferentes efeitos
 
-    Sistema de pontuação integrado com banco de dados
+Sistema de pontuação integrado com banco de dados
 
 ⚙️ Tecnologias Utilizadas
 
-    🎮 Engine: Construct 3
+🎮 Engine: Construct 3
 
-    ☁️ Banco de Dados: Firebase
+☁️ Banco de Dados: Firebase
 
 🎮 Controles
 
-    Setas do teclado: movimentação do mago
+Setas do teclado: movimentação do mago
 
-    Mouse esquerdo: lança bolas de fogo
+Mouse esquerdo: lança bolas de fogo
 
-    Mouse direito: lança esferas de plasma
+Mouse direito: lança esferas de plasma
 
-    Mira: baseada no cursor do mouse
+Mira: baseada no cursor do mouse
 
-
+Reiniciar o jogo: Barra de espaço
 
 📸 Imagens do Jogo
     
@@ -44,9 +44,7 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
 <img width="878" alt="Exemplo3JOGO" src="https://github.com/user-attachments/assets/a1322a8e-21ac-43e4-b9ea-cbcd7b5c87d2" />
 
-
-
-🧙‍♂️ Sprites Utilizados
+Sprites
 
 ![png-transparent-hadouken-hadoken-pixel-art-ryu-others-blue-rectangle-symmetry-thumbnail-removebg-preview](https://github.com/user-attachments/assets/978066c7-1247-4291-b29e-dc92de790b4b)
 
@@ -62,9 +60,7 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
 ![spell](https://github.com/user-attachments/assets/97958a54-ab6e-440a-a3d1-e3b233911862)
 
-
-
-🧾 Aplicação, Layout e Banco de Dados
+BANCO DE DADOS Aplicação/Layout/Folha de eventos e banco de dados
 
 <img width="488" alt="PARTE2JOGO1" src="https://github.com/user-attachments/assets/78dc961e-01df-45f5-bf1d-1fa22e393ff5" />
 
@@ -74,17 +70,15 @@ O objetivo é claro: derrotar todos os goblins e o boss utilizando bolas de fogo
 
 <img width="957" alt="bancodedados" src="https://github.com/user-attachments/assets/93043593-e4b9-446a-9842-41c39f3a2d73" />
 
-
-
 🙏 Agradecimentos
 
 Gostaria de expressar minha gratidão a todos que contribuíram direta ou indiretamente para a realização deste projeto:
 
-    Ao professor Márcio, pelo suporte e dedicação ao ensino.
+Ao professor Márcio, pelo suporte e dedicação ao ensino.
 
-    Aos colegas de turma, pelas ideias, feedbacks e testes durante o desenvolvimento.
+Aos colegas de turma, pelas ideias, feedbacks e testes durante o desenvolvimento.
 
-    À comunidade de desenvolvedores e artistas que compartilham sprites e recursos incríveis na internet.
+À comunidade de desenvolvedores e artistas que compartilham sprites e recursos incríveis na internet.
 
 
 
